@@ -1,0 +1,6 @@
+{
+   "name": "apicontrolexpedientes",
+   "require": {
+      "google/apiclient": "2.0."
+   }
+}

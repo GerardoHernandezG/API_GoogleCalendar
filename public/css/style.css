@@ -1,0 +1,48 @@
+.bajonav{
+	margin:50px 0px 0px 0px;
+}
+
+.login-box{
+	margin: 26% 0% 0% 0%;
+}
+.centrado{
+	text-align: center;
+}
+
+.barraregistro{
+	background: #27576B !important;
+	color: #fff;
+}
+
+.barraregistro legend{
+	color: #fff !important;
+}
+
+footer{
+	width: 100%;
+    bottom: 0;
+    position: absolute;
+    height: 50px;
+    background: #467386;
+    color: #fff;
+    font-weight: bold;
+}
+
+footer p a{
+	color: #fff !important;
+}
+
+footer p  a:link{
+	color: #fff !important;
+	text-decoration: none;
+}
+
+footer p  a:hover{
+	color: #fff !important;
+	text-decoration: none;
+}
+
+footer p  a:active{
+	color: #fff !important;
+	text-decoration: none;
+}
